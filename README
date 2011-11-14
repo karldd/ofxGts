@@ -11,3 +11,6 @@ GTS has been compiled on mac and includes its static libraries and associated de
 If you want to set this up in Xcode (rather than work from the example), add the following to your header search paths and make it a recursive search:
 ../../../addons/ofxGts/libs/gts/include/
 
+------------------------------------------
+Updated to 007 by obviousjim on 11/13/2011
+------------------------------------------
